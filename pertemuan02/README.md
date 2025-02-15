@@ -29,5 +29,5 @@ Dikarenakan persiapan software yang dapat dikatakan sulit, meeting ini diadakan 
 </table>
 
 ## Tutorial
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KidD72q87s?si=3RL3t3YJu6onJaho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Tekan gambar di bawah ini. <br>
+[![Tutorial Video](https://img.youtube.com/vi/1KidD72q87s/0.jpg)](https://www.youtube.com/watch?v=1KidD72q87s)
