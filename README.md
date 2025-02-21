@@ -16,6 +16,31 @@ Mobile Apps Development (MAD) adalah sebuah komunitas di bawah naungan Himpunan 
 
 - **Programming Language/Framework**: Untuk Tahun 2024/2025, Komunitas ini sedang berfokus pada framework [Flutter](https://flutter.dev/) yang menggunakan bahasa pemrograman [Dart](https://dart.dev/). Untuk archive tahun sebelumnya, silahkan merujuk kepada [Archive](#archive)
 
+# Cara Install Branch Tertentu
+
+Jika kalian ingin download branch tertentu, kalian bisa menjalankan command berikut
+
+```
+git clone --branch <NAMA_BRANCH> <URL_REPOSITORY>
+```
+
+Kalau kalian pakai Command Prompt, biasanya akan terinstall di
+home folder kalian, jadi kalau pengen akses lewat GUI, kalian harus ke home folder kalian. lokasi nya berada di
+
+`C:\Users\$your_username`
+
+Setelahnya kalian install dependensi
+
+```
+flutter pub get
+```
+
+Dan jalankan
+
+```
+flutter run
+```
+
 # Sources for learning
 
 - https://docs.flutter.dev/get-started/learn-flutter
