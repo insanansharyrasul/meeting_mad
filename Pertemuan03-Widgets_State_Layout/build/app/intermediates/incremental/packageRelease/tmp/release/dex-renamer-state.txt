@@ -1,4 +1,0 @@
-#Tue Feb 18 21:18:10 WIB 2025
-base.0=/home/teaguy21/Documents/Coding/MAD/food_project/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
