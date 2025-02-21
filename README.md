@@ -1,49 +1,33 @@
-# Dasar Pemrograman Dart
+# Software Development Setup and "Hello World"
 
-Repository ini berisi materi dasar pemrograman Dart yang digunakan dalam bootcamp Flutter. Setiap file dalam folder ini memiliki tujuan pembelajaran yang spesifik.
+Pada pertemuan ke-2, anggota MAD mempersiapkan kebutuhan
+software yang ingin diinstall untuk membuat aplikasi mobile.
+Dikarenakan persiapan software yang dapat dikatakan sulit, meeting ini diadakan untuk membantu peserta MAD untuk menginstall software yang dibutuhkan.
 
-## Konten Folder
+## Requirements
+<table>
+  <tr>
+    <th>Software</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/androidstudio-plain.svg" alt="Android Studio"><br>Android Studio</td>
+    <td><a href="https://developer.android.com/studio">https://developer.android.com/studio</a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/flutter-plain.svg" alt="Flutter"><br>Flutter</td>
+    <td><a href="https://docs.flutter.dev/get-started/install">https://docs.flutter.dev/get-started/install</a></td>
+  </tr>
+  <tr>
+    <td align="center" ><img src="assets/git-plain.svg" alt="Git"><br>Git</td>
+    <td><a href="https://git-scm.com/downloads">https://git-scm.com/downloads</a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/vscode-plain.svg" alt="Visual Studio Code"><br>Visual Studio Code</td>
+    <td><a href="https://code.visualstudio.com/download">https://code.visualstudio.com/download</a></td>
+  </tr>
+</table>
 
-- `a.dart`: Contoh dasar penggunaan variabel dan tipe data dalam Dart.
-- `break.dart`: Contoh penggunaan pernyataan `break` dalam loop.
-- `collection.dart`: Contoh penggunaan koleksi (list, set, map) dalam Dart.
-- `fungsi.dart`: Contoh pembuatan dan penggunaan fungsi dalam Dart.
-- `konversiSuhu.dart`: Program sederhana untuk mengkonversi suhu dari Celsius ke Fahrenheit dan sebaliknya.
-- `project.dart`: Contoh proyek sederhana menggunakan Dart.
-- `quiz.dart`: Contoh soal-soal kuis untuk menguji pemahaman dasar Dart.
-- `switch.dart`: Contoh penggunaan pernyataan `switch` dalam Dart.
-- `test.dart`: Contoh penulisan unit test dalam Dart.
-
-## Panduan Menjalankan Kode Dart
-
-Untuk menjalankan kode Dart, pastikan Anda telah menginstal [Dart SDK](https://dart.dev/get-dart) di komputer Anda. Berikut adalah langkah-langkah untuk menjalankan kode Dart:
-
-1. **Instal Dart SDK**:
-   - Ikuti petunjuk instalasi di [situs resmi Dart](https://dart.dev/get-dart).
-
-2. **Buka Terminal**:
-   - Buka terminal atau command prompt di komputer Anda.
-
-3. **Navigasi ke Direktori Proyek**:
-   - Pindah ke direktori `Pertemuan01-Dasar_Dart` dengan perintah:
-     ```sh
-     cd /path/to/Pertemuan01-Dasar_Dart
-     ```
-
-4. **Jalankan Kode Dart**:
-   - Untuk menjalankan file Dart, gunakan perintah:
-     ```sh
-     dart run <nama_file>.dart
-     ```
-   - Contoh:
-     ```sh
-     dart run a.dart
-     ```
-
-5. **Menjalankan Unit Test**:
-   - Untuk menjalankan unit test, gunakan perintah:
-     ```sh
-     dart test test.dart
-     ```
-
-Dengan mengikuti panduan di atas, Anda dapat menjalankan dan mempelajari setiap contoh kode yang ada dalam folder ini. Selamat belajar Dart!
+## Tutorial
+Tekan gambar di bawah ini. <br>
+[![Tutorial Video](https://img.youtube.com/vi/1KidD72q87s/0.jpg)](https://www.youtube.com/watch?v=1KidD72q87s)
