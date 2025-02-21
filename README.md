@@ -1,30 +1,49 @@
-<h1 align="left"><img src="mad_logo.png" width="100px" height="100px" align="center">&nbsp;&nbsp;Mobile Apps Development</h1>
+# Dasar Pemrograman Dart
 
-Repository ini adalah bahan pembelajaran untuk pertemuan meeting MAD yang telah lalu. 
+Repository ini berisi materi dasar pemrograman Dart yang digunakan dalam bootcamp Flutter. Setiap file dalam folder ini memiliki tujuan pembelajaran yang spesifik.
 
-- [What is MAD?](#what-is-mad)
-- [Sources for learning](#sources-for-learning)
-- [Archive](#archive)
+## Konten Folder
 
-# What is MAD?
+- `a.dart`: Contoh dasar penggunaan variabel dan tipe data dalam Dart.
+- `break.dart`: Contoh penggunaan pernyataan `break` dalam loop.
+- `collection.dart`: Contoh penggunaan koleksi (list, set, map) dalam Dart.
+- `fungsi.dart`: Contoh pembuatan dan penggunaan fungsi dalam Dart.
+- `konversiSuhu.dart`: Program sederhana untuk mengkonversi suhu dari Celsius ke Fahrenheit dan sebaliknya.
+- `project.dart`: Contoh proyek sederhana menggunakan Dart.
+- `quiz.dart`: Contoh soal-soal kuis untuk menguji pemahaman dasar Dart.
+- `switch.dart`: Contoh penggunaan pernyataan `switch` dalam Dart.
+- `test.dart`: Contoh penulisan unit test dalam Dart.
 
-Mobile Apps Development (MAD) adalah sebuah komunitas di bawah naungan Himpunan Mahasiswa Ilmu Komputer (HIMALKOM) yang berfokus pada pengembangan aplikasi seluler. 
+## Panduan Menjalankan Kode Dart
 
-- **Biweekly Meeting**: Komunitas mengadakan pertemuan bagi para mahasiswa yang tertarik dengan pengembangan aplikasi setiap hari Selasa.
+Untuk menjalankan kode Dart, pastikan Anda telah menginstal [Dart SDK](https://dart.dev/get-dart) di komputer Anda. Berikut adalah langkah-langkah untuk menjalankan kode Dart:
 
-- **Discussion**: Berdiskusi mengenai permasalahan/bug pada pengembangan aplikasi
+1. **Instal Dart SDK**:
+   - Ikuti petunjuk instalasi di [situs resmi Dart](https://dart.dev/get-dart).
 
-- **Programming Language/Framework**: Untuk Tahun 2024/2025, Komunitas ini sedang berfokus pada framework [Flutter](https://flutter.dev/) yang menggunakan bahasa pemrograman [Dart](https://dart.dev/). Untuk archive tahun sebelumnya, silahkan merujuk kepada [Archive](#archive)
+2. **Buka Terminal**:
+   - Buka terminal atau command prompt di komputer Anda.
 
-# Sources for learning
+3. **Navigasi ke Direktori Proyek**:
+   - Pindah ke direktori `Pertemuan01-Dasar_Dart` dengan perintah:
+     ```sh
+     cd /path/to/Pertemuan01-Dasar_Dart
+     ```
 
-- https://docs.flutter.dev/get-started/learn-flutter
-- https://dart.dev/guides
-- [PPT Meeting MAD](https://drive.google.com/drive/u/2/folders/1CzRQ3WHoFQpWuFqFzqtNErdysWerfiYV)
+4. **Jalankan Kode Dart**:
+   - Untuk menjalankan file Dart, gunakan perintah:
+     ```sh
+     dart run <nama_file>.dart
+     ```
+   - Contoh:
+     ```sh
+     dart run a.dart
+     ```
 
-# Archive
+5. **Menjalankan Unit Test**:
+   - Untuk menjalankan unit test, gunakan perintah:
+     ```sh
+     dart test test.dart
+     ```
 
-Jika anda tertarik dengan bahasa pemrograman Kotlin dan hanya berfokus kepada pengembangan mobile apps pada android saja, silahkan kunjungi repository tahun lalu oleh [@harissabil](https://github.com/harissabil)
-
-- [Zoom Records](https://drive.google.com/drive/folders/18Btg3EFc-36eAANyMAGhSymnYPkfxYsv)
-- [Repository](https://github.com/harissabil/mad-project)
+Dengan mengikuti panduan di atas, Anda dapat menjalankan dan mempelajari setiap contoh kode yang ada dalam folder ini. Selamat belajar Dart!
