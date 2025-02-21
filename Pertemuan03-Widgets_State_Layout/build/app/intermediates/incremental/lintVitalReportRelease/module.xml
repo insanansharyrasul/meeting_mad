@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/home/teaguy21/Documents/Coding/MAD/food_project/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    agpVersion="8.1.0"
+    buildFolder="/home/teaguy21/Documents/Coding/MAD/food_project/build/app"
+    bootClassPath="/home/teaguy21/Android/Sdk/platforms/android-35/android.jar:/home/teaguy21/Android/Sdk/build-tools/33.0.1/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-35">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

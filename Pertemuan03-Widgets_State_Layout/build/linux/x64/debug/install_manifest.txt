@@ -1,0 +1,11 @@
+/home/teaguy21/Documents/Coding/MAD/meeting_mad/pertemuan03/build/linux/x64/debug/bundle/food_project
+/home/teaguy21/Documents/Coding/MAD/meeting_mad/pertemuan03/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/teaguy21/Documents/Coding/MAD/meeting_mad/pertemuan03/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/teaguy21/Documents/Coding/MAD/meeting_mad/pertemuan03/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/teaguy21/Documents/Coding/MAD/meeting_mad/pertemuan03/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/teaguy21/Documents/Coding/MAD/meeting_mad/pertemuan03/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/teaguy21/Documents/Coding/MAD/meeting_mad/pertemuan03/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/teaguy21/Documents/Coding/MAD/meeting_mad/pertemuan03/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/teaguy21/Documents/Coding/MAD/meeting_mad/pertemuan03/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/teaguy21/Documents/Coding/MAD/meeting_mad/pertemuan03/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/teaguy21/Documents/Coding/MAD/meeting_mad/pertemuan03/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
